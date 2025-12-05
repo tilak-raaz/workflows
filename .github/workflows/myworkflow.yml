@@ -9,5 +9,5 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: Hello World Action
-              run: echo "Hello, World!"
-              shell: bash
+              run: echo "Hello, World! 2"
+              
